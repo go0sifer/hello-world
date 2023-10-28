@@ -1,4 +1,3 @@
-```python
 def success(dedication, persistence, passion):
     dedication += 1 # Dedicate yourself
     persistence += 1 # Be persistent
@@ -12,4 +11,3 @@ def success(dedication, persistence, passion):
         return magic
 
 # love it. learn it. make mistakes. keep learning.
-```
