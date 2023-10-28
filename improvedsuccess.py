@@ -7,6 +7,8 @@ def success(dedication, persistence):
     else:
         return "You have no magic. Dedicate yourself and be Persistent. This shows Passion and combined will grant you magic."
 
+# love it. learn it. make mistakes. keep learning.
+
 # Example usage:
 # dedication = 0
 # persistence = 0
