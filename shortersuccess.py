@@ -9,6 +9,7 @@ def success(dedication, persistence, passion):
 # dedication = 0
 # persistence = 0
 # passion = True
+# result=success(dedication, persistence, passion)
 
 
 result = success(4, 20, True)
